@@ -21,18 +21,18 @@ The software also includes additional features for:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/GaneshKishore01/MSM-T-Software/blob/main/src/About.png" width="400"/>
+      <img src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/F-insulin%20A1.png" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github.com/GaneshKishore01/MSM-T-Software/blob/main/src/MonitoringMode.png" width="400"/>
+      <img src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/F-insulin%20A2.png" width="400"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/GaneshKishore01/MSM-T-Software/blob/main/src/TrackFromMagnet.png" width="400"/>
+      <img src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/F-insulin%20docked.png" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github.com/GaneshKishore01/MSM-T-Software/blob/main/src/Settings.png" width="400"/>
+      <img src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/F-insulin%20dockinginfo.png" width="400"/>
     </td>
   </tr>
 </table>
