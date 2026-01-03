@@ -1,11 +1,11 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/GK_ProductionsLogo.png" /># MSM-T
+<img width="1920" height="1080" alt="image" src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/GK_ProductionsLogo.png" /># Paper on 
 A Software designed for tracking torrents and monitoring peers conneted to it.
 # **Description**
 
 ## **What it is**
-A ready-to-use software capable of detecting peers connected to a magnet/torrent swarm.  
-The software also includes additional features for:
+Tradinitonal biochemical productions rely on Saccharomyces cerevisiae (baker's yeast), in which one of the steps is to break open the yeast cells to take seperate the biochemical product from the yeast. This step however is monetarily and financialy costly since the yeast cells have to be replenished.
 
+In the proposed methord, we plan to use 
 - Searching for magnets across multiple sites at once  
 - Tracking peers by hosting your own file  
 - Viewing IP/location info of connected peers  
