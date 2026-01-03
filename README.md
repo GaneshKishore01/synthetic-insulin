@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/GaneshKishore01/MSM-T-Software/blob/main/src/MSM-T.png" /># MSM-T
+<img width="1920" height="1080" alt="image" src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/GK_ProductionsLogo.png" /># MSM-T
 A Software designed for tracking torrents and monitoring peers conneted to it.
 # **Description**
 
@@ -32,7 +32,7 @@ The software also includes additional features for:
       <img src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/F-insulin%20docked.png" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/F-insulin%20dockinginfo.png" width="400"/>
+      <img src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/GK_ProductionsLogo.png" width="400"/>
     </td>
   </tr>
 </table>
