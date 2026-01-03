@@ -1,20 +1,14 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/GK_ProductionsLogo.png" /># Paper on 
-A Software designed for tracking torrents and monitoring peers conneted to it.
+<img width="1920" height="1080" alt="image" src="https://github.com/GaneshKishore01/synthetic-insulin/blob/main/src/GK_ProductionsLogo.png" /># Paper on producing insulin and medicines without needing an supply chain.
 # **Description**
 
 ## **What it is**
-Tradinitonal biochemical productions rely on Saccharomyces cerevisiae (baker's yeast), in which one of the steps is to break open the yeast cells to take seperate the biochemical product from the yeast. This step however is monetarily and financialy costly since the yeast cells have to be replenished.
+Tradinitonal biochemical productions rely on Saccharomyces cerevisiae (baker's yeast), in which they break open the yeast cells to take seperate the biochemical product from the yeast. This step however is monetarily and financialy costly since the yeast cells have to be replenished. Also the biochemical produce is produced in an centralized manner ie. biochemical produce needs to be transported to where it needs, which costs money and makes it inaccessible for people living in secluded areas.
 
-In the proposed methord, we plan to use 
-- Searching for magnets across multiple sites at once  
-- Tracking peers by hosting your own file  
-- Viewing IP/location info of connected peers  
-
----
-
+- 
 ## **How it works**
-- **Peer detection & hosting/tracking:**  
-  Uses **qBittorrent** and **ipwhois** to detect peers and fetch geo-location/info.
+- **Insulin Production:**  
+  Insulin produced as a fusion protein(F.P.) which leverages TSS1 secretion system of E.coli to secrete F.P. from the cell in a continious manner without breaking it
+
 
 - **Magnet search:**  
   Uses **Jackett** to aggregate torrent search results from multiple indexers.
@@ -36,15 +30,5 @@ In the proposed methord, we plan to use
     </td>
   </tr>
 </table>
-
----
-
-## **Instructions**
-1. Download `MSMT.zip` from releases.
-2. **Extract** the contents of `MSMT.zip`
-3. **Copy** the `MTSM` folder from `/assets` into:  
-   `C:\Users\GANESH\AppData\Roaming\`
-4. **Configure** the Jackett and qBittorrent ports in the **Settings** tab
-5. Enjoy!
 
 ---
